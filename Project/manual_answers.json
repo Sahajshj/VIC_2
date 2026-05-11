@@ -1,0 +1,14 @@
+{
+  "chart01": { "VH3": true,  "CC3": false, "AC3": false },
+  "chart02": { "VH3": true,  "CC3": false, "AC3": false },
+  "chart03": { "VH3": true,  "CC3": false, "AC3": true  },
+  "chart04": { "VH3": false, "CC3": false, "AC3": false },
+  "chart05": { "VH3": true,  "CC3": false, "AC3": false },
+  "chart06": { "VH3": false, "CC3": false, "AC3": false },
+  "chart07": { "VH3": false, "CC3": false, "AC3": false },
+  "chart08": { "VH3": false, "CC3": false, "AC3": false },
+  "chart09": { "VH3": true,  "CC3": false, "AC3": true  },
+  "chart10": { "VH3": true,  "CC3": false, "AC3": false },
+  "chart11": { "VH3": true,  "CC3": false, "AC3": false },
+  "chart12": { "VH3": true,  "CC3": false, "AC3": false }
+}
