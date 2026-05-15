@@ -1,0 +1,13 @@
+Chart,Description,MRS,Risk Band,Axis Integrity,Visual Honesty,Contextual Completeness,Audience Clarity
+chart01,Reuters — Florida Gun Deaths (Inverted Y-axis),33,MEDIUM,8,25,17,17
+chart02,Fox News — Obama Unemployment (Truncated Y-axis),24,LOW,17,25,17,17
+chart03,Fox News — Unemployment Rate 2011 (Area chart),24,LOW,17,25,9,25
+chart04,3D Object Bar — Ticket Price Distortion,58,MEDIUM,17,8,0,17
+chart05,Flipped Y-axis — Unemployment Appears Improving,33,MEDIUM,8,25,17,17
+chart06,Fox News — Pie Chart Slices Over 100%,41,MEDIUM,25,17,0,17
+chart07,Pictograph — Sports Ticket Price Icons,66,HIGH,0,17,0,17
+chart08,Kansas COVID — Dual Axis Mask Chart,33,MEDIUM,16,17,17,17
+chart09,COVID Active Cases Line Chart,8,LOW,25,25,17,25
+chart10,College Tuition vs Earnings Line Chart,33,MEDIUM,25,25,0,17
+chart11,Global Warming — Wide Y-axis Flat Line,25,LOW,25,25,8,17
+chart12,Choropleth Map — Changing Color Scales,33,MEDIUM,16,17,17,17
